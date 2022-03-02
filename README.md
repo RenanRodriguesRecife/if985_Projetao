@@ -5,11 +5,17 @@ Antes de chegar a um idéia é importante se expor a situações em que seja obr
 ### Quest 1
 Mergulhar em coisas diferentes para encontrar um bom problema
 - Inovação começa por entender comportamentos, as dores e desejos.
-- O intuito dessa quest não é definir seu projeto 
+- O intuito dessa quest não é definir seu projeto e sim investigar um cenário
 - Levantamento preliminar de contextos e questões. Não fruto de suposições
 - categorizar/classificar/qualificar 
 
 <img src="./assets/obj_onu.jpg">
+
+- Porque este lugar é interessante?
+- Quais as características deste espaço? (ele é privado? aberto ou fechado quantas pessoas circulam neste espaço?)
+- Quais são os contrastes presentes (o que há demais ali, e o que está em falta)?
+- Quem frequenta este espaço? Quem são estas pessoas? O que elas fazem lá?
+- O que você não viu lá (mas esperava ver)?
 
 ### Quest 2
 Definir o tema que interessa e qual você enxerga alguma oportunidade
