@@ -9,6 +9,8 @@ Mergulhar em coisas diferentes para encontrar um bom problema
 - Levantamento preliminar de contextos e questões. Não fruto de suposições
 - categorizar/classificar/qualificar 
 
+<img src="./assets/obj_onu.jpg">
+
 ### Quest 2
 Definir o tema que interessa e qual você enxerga alguma oportunidade
 
