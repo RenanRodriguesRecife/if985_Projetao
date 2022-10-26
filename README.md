@@ -1,5 +1,7 @@
 # if985_Projetão
 
+30
+
 Projetão é uma experiência de aprendisado para empreendedorismo. Aprender uma metodologia consistente de gerar novas e melhores soluções.
 
 Essa inovação pode se encaminha para virar uma startup, mas a inovação pode ser para várias coisas: gerar inovação dentro do setor público, privado...
@@ -10,7 +12,7 @@ Para empreender, inovar apenas não é o suficiente. é um ponto de partida. Ess
 Antes de chegar a um idéia é importante se expor a situações em que seja obrigado a pensar sobre determinado assunto, trazer algo relevante, tentar encontrar um problema importante
 
 
-A jornada da inovação tem 3 grandes fazes (dividas em 9 quests)
+## A jornada da inovação tem 3 grandes fazes (dividas em 9 quests)
 
 1 - Descoberta de uma oportunidade (faze mais importante)(Exite um desconforto em querer amadurecer o problema, geralmente se cai no erro de partir direto para a solução. Existe o erro de achar a solução certa para o problema errado(que é algo inútil))
 

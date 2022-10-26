@@ -65,7 +65,32 @@ Ex: crianças, pessoas praticando esportes, vendedores, personal trainers, pesqu
 
 Ex: indigentes e equipamentos depredados.
 
+## Perguntas Frequentes
 
+Devo observar um lugar físico, ou posso também ver espaços virtuais?
+
+Todo lugar virtual é usado por pessoas que, de alguma maneira, estão em um lugar físico. O importante não é o local em si, mas o contexto, a situação, as dificuldades e interesses das pessoas neste cenário. Se uma pessoa está fazendo operações virtuais na Bolsa de Valores, o importante não é olhar a Bolsa de Valores, mas ver de que maneira esta pessoa está realizando isso: a pessoa está na praia, debaixo de um guarda-sol fazendo isso? Ou está em um escritório, apoiado por informações de mercado, acompanhando as movimentações financeiras com um assessor de investimentos no teleofone? Fique atento ao cenário e questões envolvidas nas atividades das pessoas, pois é ali que você encontrará bons problemas para serem trabalhados.
+
+Que locais devo ir? E quais devo evitar, para fazer as observações?
+
+Não há lugares certos ou errados para serem observados, mas recomendamos que vocês evitem locais óbvios e que frequentam constantemente (como shoppings, praças de alimentação, salas de aula, laboratórios, etc.) porque tendemos a não enxergar o que está acontecendo ao nosso redor em espaços aos quais já estamos aconstumados e acreditamos conhecer bem. É mais fácil enxergar as questões presentes com clareza em locais que não conhecemos e sobre os quais não temos nenhuma presunção.
+
+Devo definir uma persona para cada grupo que frequenta o espaço, ou apenas uma persona que é a mais observada no local?
+
+Elabore personas para todos os grupos que você for capaz de identificar e enquadrar. Inicialmente você deve elaborar as personas mais relevantes observadas no local, e posteriormente complementar com personas menos visíveis ou facilmente identificáveis. Muitas vezes, a inovação nasce de observações que passariam desapercebidas.
+
+Já temos um projeto de uma disciplina/atividade anterior. Podemos continuar com ele aqui?
+
+Não. É preciso aprender a escutar e observar, e uma ideia pronta impediria isso.
+Você pode até trazer algo interessante, mas precisará fazer todo o processo do início, mostrando evidências, identificando problemas reais e concretos da sociedade e demonstrando que se trata de algo relevante, que tem escala, etc.
+A competência mais importante desenvolvida no curso é a capacidade de identificar problemas e resolvê-los. Ensinamos alunos a não serem reféns de soluções pré-definidas por seus clientes e se tornarem apenas a mão que executa uma ideia. É parte essencial desta metodologia que os alunos sejam capazes de achar os problemas.
+
+Não me sinto motivado a desenvolver o trabalho. O tema não me interessa.
+
+Ouvimos esta reclamação de alunos recorrentemente. Há questões muito sérias sobre isso que os estudantes precisam parar para refletir. A primeira delas diz respeito à forma como os alunos, atualmente, lidam com o aprendizado em si: aprender algo é uma atividade que demanda esforço, e raramente é agradável e divertida. Há uma tendência hoje de que os jovens abandonem muito facilmente quaisquer coisas que não lhes sejam agradáveis ou divertidas, e consequentemente, nos encontraremos em uma sociedade onde as pessoas não conseguirão desempenhar minimamente nenhuma atividade ou profissão, afinal, trabalhar, no geral, não é algo animado, divertido ou agradável, mas algo que precisa ser feito.
+A real motivação para que você desenvolva o seu trabalho é passar pela experiência deste desenvolvimento, e aprender algo com ela. Os estudantes costumam ter bastante orgulho dos resultados que obtém ao final do processo, mas, realmente, estes resultados não deveriam ser a verdadeira força motivadora, pois, por melhores que sejam, estarão longe de um produto/solução madura e pronta para o mercado. Contudo, o aprendizado e a experiência, por mais árduos e desgastantes que tenham sido, permanecerão válidos e úteis por toda sua vida.
+Quando se entende isso, mesmo um projeto cujo tema seja completamente sem graça, continua oferecendo oportunidade para o crescimento profissional e o aprendizado, e isto, por si só, deveria ser motivação suficiente para seu engajamento e comprometimento com ele.
+O segundo ponto consideravelmente sério a se refletir é que, respeitando as diferentes maneiras como Projetão é conduzido pelos diferentes grupos de inovação, de forma geral, os temas são definidos pela atividade da Quest #1. Nesta Quest, os alunos costumam ir a campo para observar pessoas e espaços, de forma que os problemas a serem enfrentados são frutos de evidências concretas e de situações reais, apresentadas posteriormente ao grupo como um todo, para que os temas sejam votados e escolhidos. Isto significa que nenhum tema é imposto, e que são todos definidos de forma democrática. Se a temática não lhe agrada, há três situações possíveis: você não trouxe evidências e observações de algo realmente interessante a ser trabalhado, e teve que se contentar com aquilo que foi trazido por outros (que não lhe interessam); as evidências que você trouxe sobre algo que lhe agrada não são suficientemente fortes, ou relevantes, para os outros, e interessam somente a você ou a um pequeno grupo (dando um bom indicador que o tema não é realmente viável para a inovação); ou, enfim, você não deseja trabalhar em cima de um problema real e concreto, mas de algo que imagina ser possível/interessante, do qual não tem nenhuma evidência. Para qualquer um dos três cenários, a resposta é a mesma: se não há evidências de que se trata de algo relevante para a sociedade, não deve ser um caminho seguido. Este é um dos pontos críticos a serem aprendidos na dificil arte de projetar: não projetamos para nós mesmos; projetamos para os outros.
 
 
 
