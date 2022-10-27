@@ -20,7 +20,11 @@ Antes de chegar a um idéia é importante se expor a situações em que seja obr
 
 3 - Implementação da solução digital
 
-### Quest 1
+
+A metodologia Projetão está organizada em nove atividades chamadas de "Quests", que procuram ajudar a responder questões importantes para o projeto. Cada uma das Quests tem um papel específico para a elaboração do projeto, e cada uma dela possui perguntas centrais que orientam as decisões necessárias no desenvolvimento da inovação.
+
+
+### Quest 1 - Cenário & Pessoas
 Mergulhar em coisas diferentes para encontrar um bom problema
 - Inovação começa por entender comportamentos, as dores e desejos.
 - O intuito dessa quest não é definir seu projeto e sim investigar um cenário
@@ -35,17 +39,26 @@ Mergulhar em coisas diferentes para encontrar um bom problema
 - Quem frequenta este espaço? Quem são estas pessoas? O que elas fazem lá?
 - O que você não viu lá (mas esperava ver)?
 
-### Quest 2
+### Quest 2 - Tema & Oportunidades
 Definir o tema que interessa e qual você enxerga alguma oportunidade
 
-### Quest 3
+### Quest 3 - Problema & Concorrentes
 Deixar bem claro qual o problema que você quer resolver (a dor que você quer sanar) e que concorrentes já estão trabalhando para sanar essa dor.
 
-### Quest 4
+### Quest 4 - Proposta Única de Valor
 O que você oferece de único que só você tem e ninguém tem que vai fazer você se destacar dos demais.
 
-### Quest 5
+### Quest 5 - Estratégia de Inovação
 Qual vai ser a sua estratégia
 
-### Quest 6
+### Quest 6 - Modelo de Negócio & ARM
 Como é que você transforma isso em um negócio
+
+
+### Quest 7 - Prototipação & Usabilidade
+
+
+### Quest 8 - Plano de Projeto
+
+
+### Quest 9 - Preparação para o Demoday
