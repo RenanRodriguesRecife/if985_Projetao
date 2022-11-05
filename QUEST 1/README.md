@@ -11,6 +11,31 @@ O intuito desta quest **não é** definir seu projeto. Não tente encontrar nest
 
 Ao final, procure categorizar / classificar / qualificar aquilo que mais chamou sua atenção, e entender onde esta questão se enquadra dentro dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
 
+<img src="./assets/obj_onu.jpg">
+
+Preparação
+
+Quais são os seus interesses pessoais? Em que espaços/lugares você verá estes interesses acontecendo?
+
+Aeroporto
+Cemitério
+Ambulância
+Frigorífico	Feira	
+Cinema
+Ponto de taxi	
+Academia	
+Navio
+Fábrica	
+Rodoviária	
+Banca de jornal
+
+Quando é interessante ir neste local?
+
+Ex: ir no Ceasa no meio da tarde é um bom momento?
+
+
+
+
 ## Cenário & Pessoas
 
 
