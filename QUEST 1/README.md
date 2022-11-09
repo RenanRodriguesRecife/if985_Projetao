@@ -43,6 +43,27 @@ Dica
 
 Se você se gostaria de criar um projeto para inovar com atividades esportivas, visite um local onde você encontre pessoas desempenhando estas atividades, como um ginásio, por exemplo; se for possível, tente visitar um lugar onde várias pessoas e atividades são desempenhadas em torno daquilo que lhe interessa, como, por exemplo, um clube ou campo de futebol no dia de treinamento de um time, onde será possível observar tanto os jogadores quanto treinadores, técnicos, assistentes, imprensa, ou mesmo um grupo pequeno de torcedores aficcionados por seu time.
 
+Descrever
+
+1. Qual espaço foi observado?
+
+Ex: Parque da Jaqueira
+
+2. Quais as características deste espaço? (ele é privado? é aberto ou fechado? quantas pessoas circulam neste espaço?)
+
+Ex: natureza pública, de grande circulação e densidade de pessoas.
+
+3. Quais são os contrastes presentes (o que há demais ali, e o que está em falta)?
+
+Ex: há muitos policiais e muitos funcionários presentes, mas quase não vimos animais.
+
+4. Quem frequenta este espaço? Quem são estas pessoas? O que elas fazem lá?
+
+Ex: crianças, pessoas praticando esportes, vendedores, personal trainers, pesquisadores do ibope, pessoas idosas, ciclistas, guardas, funcionários do parque.
+
+5. O que você não viu lá (mas esperava ver)?
+
+Ex: indigentes e equipamentos depredados.
 
 
 
