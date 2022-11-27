@@ -1,5 +1,12 @@
 # if985_Projetão
 
+Projetão é uma experiência de aprendisado para empreendedorismo. Aprender uma metodologia consistente de gerar novas e melhores soluções.
+
+Essa inovação pode se encaminha para virar uma startup, mas a inovação pode ser para várias coisas: gerar inovação dentro do setor público, privado...
+
+Para empreender, inovar apenas não é o suficiente. é um ponto de partida. Essa disciplina não é suficente para tratar da questão do empreendorismo como um todo, o foco está consentrado na inovação. 
+
+
 Antes de chegar a um idéia é importante se expor a situações em que seja obrigado a pensar sobre determinado assunto, trazer algo relevante, tentar encontrar um problema importante
 
 ### Quest 1
