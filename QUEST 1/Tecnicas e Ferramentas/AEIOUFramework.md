@@ -25,3 +25,16 @@ O sisteam funciona dando atenção e tentando capturar 5 quesitos durante as obs
 
 Construíndo uma tabela com 5 campos, um para cada elemento do sistema, e anotando em cada campo aquilo que se observa de acordo com a categoria.
 
+Exemplo do estádio de futebol
+
+<img src="exemploAEIOU.jpg">
+
+Ao término da observação, os dados estarão razoavelmente estruturados para que sejam analisados / interpretados. De uma forma mais simples, os elementos mais importantes da observação foram estruturados pelo framework.
+
+
+### Como / quando usar?
+
+O framework pode ser utilizado durante os primeiros levantamentos do projeto, e é bastante útil para responder as questões em Quest #1 Quest #2
+
+Os levantamentos feitos sobre o critério U são úteis para a construção de Personas
+
