@@ -9,6 +9,15 @@ Para empreender, inovar apenas não é o suficiente. é um ponto de partida. Ess
 
 Antes de chegar a um idéia é importante se expor a situações em que seja obrigado a pensar sobre determinado assunto, trazer algo relevante, tentar encontrar um problema importante
 
+
+A jornada da inovação tem 3 grandes fazes (dividas em 9 quests)
+
+1 - Descoberta de uma oportunidade (faze mais importante)(Exite um desconforto em querer amadurecer o problema, geralmente se cai no erro de partir direto para a solução. Existe o erro de achar a solução certa para o problema errado(que é algo inútil))
+
+2 - Projeto de solução inovadora
+
+3 - Implementação da solução digital
+
 ### Quest 1
 Mergulhar em coisas diferentes para encontrar um bom problema
 - Inovação começa por entender comportamentos, as dores e desejos.
