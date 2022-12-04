@@ -25,6 +25,9 @@ A metodologia Projetão está organizada em nove atividades chamadas de "Quests"
 
 
 ### Quest 1 - Cenário & Pessoas
+
+Levantamento "in loco" das atividades realizadas por diversos tipos de pessoas em algum espaço de sua escolha. A Quest #1 tem como objetivo ajudar a identificar questões reais, presentes no mundo real e nas atividades/dificuldades cotidianas das pessoas. É natural que aquilo que desejamos fazer como projeto seja fruto de como imaginamos o mundo, mas a inovação só acontece quando lidamos com o mundo concreto, e não com nossa suposição/desejo de como ele deveria ser.
+
 Mergulhar em coisas diferentes para encontrar um bom problema
 - Inovação começa por entender comportamentos, as dores e desejos.
 - O intuito dessa quest não é definir seu projeto e sim investigar um cenário
