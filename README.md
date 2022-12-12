@@ -61,14 +61,22 @@ Identificação dos valores essenciais para a solução que será desenvolvida, 
 ### Quest 5 - Estratégia de Inovação
 Qual vai ser a sua estratégia
 
+Definição dos elementos, funções, características e recursos mínimos para que um produto possa efetivamente ser lançado no mercado, apoiado em uma estratégia de inovação onde os valores essenciais definidos na Quest anterior possam ser entregues ao usuário/consumidor no menor prazo e com o menor esforço possível. A Quest #5 ajuda na elaboração de uma abordagem estratégica para o desenvolvimento do projeto.
+
 ### Quest 6 - Modelo de Negócio & ARM
 Como é que você transforma isso em um negócio
 
+Definição de um modelo de negócio para que todo o esforço empreendedor sendo desenvolvido seja sustentável a longo prazo, para que consiga arcar com seus custos, atender seus consumidores e se manter operando competitivamente. A Quest #6 ajuda a entender esta relação entre custos, recursos disponíveis, vantagens, métricas, etc. que são essenciais à viabilidade do projeto.
 
 ### Quest 7 - Prototipação & Usabilidade
 
+Construção de protótipos, principalmente de baixa e média fidelidade, para realização de testes junto aos usuários afoitos, com intuito de entender o que precisa ser mantido, o que precisa ser melhorado e o que precisa ser drasticamente modificado na solução para que ela seja plenamente compreendida e utilizada pelos usuários/consumidores. É importante notar, neste momento, que o entendimento de uma solução para a qual não se tem referências ou experiências prévias pode ser mais difícil do que o normal, e aquilo que parece simples para quem está imerso em seu desenvolvimento, produz uma percepção completamente diferente sobre quem está tendo seu primeiro contato com o artefato.
 
 ### Quest 8 - Plano de Projeto
 
+Organização do processo produtivo para que a solução proposta consiga ser construída e testada junto aos usuários afoitos antes de sua apresentação no Demoday. A Quest #8 ajuda a definir responsabilidades e atividades a serem desempenhadas até o prazo final do projeto.
 
 ### Quest 9 - Preparação para o Demoday
+
+Planejamento da apresentação e da demonstração da solução no evento do Demoday. A Quest #9 auxilia no planejamento das atividades que serão realizadas no evento onde o projeto é apresentado publicamente, como em feiras de inovação e eventos de apresentação para investidores.
+
