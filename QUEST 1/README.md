@@ -67,7 +67,6 @@ Ex: indigentes e equipamentos depredados.
 
 
 
-## Cenário & Pessoas
 
 
 
