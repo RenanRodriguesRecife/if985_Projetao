@@ -4,4 +4,10 @@ Identificação dos **valores** essenciais para a solução que será desenvolvi
 
 A inovação real não se desenvolve em cima de suposições. É fundamental que os grupos trabalhem em cima daquilo que conseguiram juntar evidências concretas e conhecimento empírico até o presente momento. Um artefato que faça exatamente o que tantos outros já fazem, e entregue exatamente o que tantos outros já entregam, dificilmente será inovador, ainda que o grupo acredite que é capaz de fazer algo melhor (mais bonito, mais fluido, mais rápido) do que aquilo que está disponível. A inovação virá através de artefatos diferentes, que entreguem **valores** diferentes, ou que realizem as suas atividades de maneira diferente dos demais; o esforço desta quest é, justamente, identificar o que faz a sua solução, diferente.
 
+
+### Questões
+#### 1. Qual oportunidade é a mais relevante? Onde o grupo decidiu investir seu esforço?
+Ex: dispositivo sonoro de condução óssea para tornar lúdica a atividade física em espaços públicos.
+
+
 https://www.projetao.com.br/generator/?dun=MetQ4&
