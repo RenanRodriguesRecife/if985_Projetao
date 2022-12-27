@@ -9,5 +9,7 @@ A inovação real não se desenvolve em cima de suposições. É fundamental que
 #### 1. Qual oportunidade é a mais relevante? Onde o grupo decidiu investir seu esforço?
 Ex: dispositivo sonoro de condução óssea para tornar lúdica a atividade física em espaços públicos.
 
+#### 2. Por que ela seria a mais relevante? Quais são as evidências que mostram isso?
+Ex: nas 51 entrevistas que realizamos com esportistas amadores e pessoas realizando atividade física, foi apontado que o que mais os desmotiva é que a atividade se torna repetitiva e monótona. As gambiarras utilizadas são tentativas de manter a atividade interessante no dia-a-dia.
 
 https://www.projetao.com.br/generator/?dun=MetQ4&
