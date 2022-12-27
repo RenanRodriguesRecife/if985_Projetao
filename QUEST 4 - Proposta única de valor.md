@@ -12,4 +12,14 @@ Ex: dispositivo sonoro de condução óssea para tornar lúdica a atividade fís
 #### 2. Por que ela seria a mais relevante? Quais são as evidências que mostram isso?
 Ex: nas 51 entrevistas que realizamos com esportistas amadores e pessoas realizando atividade física, foi apontado que o que mais os desmotiva é que a atividade se torna repetitiva e monótona. As gambiarras utilizadas são tentativas de manter a atividade interessante no dia-a-dia.
 
+#### 3. Qual é sua proposta única de valor, e para quem (usuário, cliente, ou os dois)? Quais valores somente a sua solução irá entregar? O que a torna única? O que nenhum concorrente tem?
+
+Ex: experiência lúdica transformando a atividade física em uma diversão/brincadeira, mas não em uma competição ou jogo.
+
+### Atenção
+
+As decisões tomadas nesse momento não são definitivas; na verdade, é muito comum que sejam revistas e modificadas nas etapas posteriores, e, em alguns poucos casos, abandonadas e prol de um outro projeto. Não tome nenhuma escolha como algo irreversível, mas também não faça escolhas de forma inconsequente ou sem a devida discussão e reflexão necessárias, pois isso só fará o grupo perder tempo precioso para o projeto. Escolhas erradas se tornam aprendizado; escolhas impensadas, feitas apenas para se livrar de uma tarefa imediata, se tornam uma bola de neve de problemas.
+
+
+
 https://www.projetao.com.br/generator/?dun=MetQ4&
