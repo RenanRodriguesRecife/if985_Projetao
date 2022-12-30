@@ -14,4 +14,5 @@ Nas atividades projetuais, chamamos de "escuta altruísta" esta competência de 
 
 ### Como aplicar um mapa de empatia?
 
-<img src="">
+<img src="mapadeempatia.svg">
+
