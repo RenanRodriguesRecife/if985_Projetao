@@ -16,3 +16,10 @@ Nas atividades projetuais, chamamos de "escuta altruísta" esta competência de 
 
 <img src="mapadeempatia.svg">
 
+O registro das observações sobre cada usuário devem ser preenchidos no diagrama acima, registrando o que o usuário observado pensa e sente sobre um assunto na parte superior do quadro; aquilo que ele vê na parte direita; aquilo que ele ouve sobre o assunto investigado na parte esquerda, e o que ele fala e faz à respeito na parte inferior. Também se costuma registrar no diagrama aquilo que lhe incomoda (dores) no canto inferior esquerdo, e suas necessidades/desejos no canto inferior direito.
+
+
+
+
+Os mapas de empatia pode ser úteis durante as primeiras observações e formulação/enquadramento de personas, geralmente feitas entre a Quest #1 , Quest #2 e Quest #3.
+
