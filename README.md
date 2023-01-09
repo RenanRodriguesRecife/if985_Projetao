@@ -85,3 +85,12 @@ Planejamento da apresentação e da demonstração da solução no evento do Dem
 Você não pode chegar com uma certa idéia de um problema na cabeça (de forma enviesada)
 
 Não bom é pesquisar em um lugar que não tem tantos problemas (tipo um restaurânte de sucesso, bem organizado que já usa um sistema).O problema que você vai encontrar geralmente é um subproblema do subproblema do subproblema real. Quando você já tá nesse nível você provavelmente está lidando com um problema de otimização. Você não tem uma inovação radical, na prática você só tá mudando uma coisa pequena que só está otimizando o fluxo. 
+
+
+A inovação pressupõem uma mudança de comportamento de algum dos atores (agente de mercado: cliente, fornecedores, produtor...) alguém muda o seu comportamento.
+
+O problema é relevante? Se trata de um problema é tão relevante que alguém esteja muito incomodado com isso e isso fassa ele querer consumir o seu serviço ou produto? 
+
+Tem um componente do canvas que se chama unfair advantagem: que é uma vantagem injusta que você tem quando monta uma inovação. A grande questão é que empresa que já trabalham na área, já tem vantagem como ter clientes, dados...se ele quiser acrescentar um módulo que faz as mesmas funcionalidade que a sua otimização ele pode simplemente acabar com o seu projeto.(dando uma vantagem injusta contra você para o seus concorrentes)
+
+As pessoas querem usar isso?
