@@ -95,6 +95,11 @@ Tem um componente do canvas que se chama unfair advantagem: que é uma vantagem 
 
 As pessoas querem usar isso?
 
-Se você só quer fazer melhor algo que já é feito ele não é uma inovação.
+Se você só quer fazer melhor algo que já é feito ele não é uma inovação. É algo que vem para tomar o lugar de um produto antigo porque tem um recurso a mais.
 
-06:16
+Quest 1 -> você é exposta a um outro ambiente, para intender um contexto diverente que você está habituado. Porque quanto você conhece uma coisa nova é normal que você tenha idéia sobre aquilo, você tem uma visão analítica sobre essa coisa que você tá conhecendo.
+
+Quest 2 -> Ao conversar com as pessoas quais são as oportunidades que você enchergam, talvez a oportunidade pode ser diferente mesmo seguindo essa linha. Se o lugar que você foi é um ambinete de sucesso você pode fazer perguntas para as pessoas do que elas acham que esse lugar tem de tão especial que outros lugares não tem.
+
+
+
