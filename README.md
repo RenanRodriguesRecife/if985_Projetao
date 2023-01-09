@@ -80,3 +80,8 @@ Organização do processo produtivo para que a solução proposta consiga ser co
 
 Planejamento da apresentação e da demonstração da solução no evento do Demoday. A Quest #9 auxilia no planejamento das atividades que serão realizadas no evento onde o projeto é apresentado publicamente, como em feiras de inovação e eventos de apresentação para investidores.
 
+========================
+
+Você não pode chegar com uma certa idéia de um problema na cabeça (de forma enviesada)
+
+Não bom é pesquisar em um lugar que não tem tantos problemas (tipo um restaurânte de sucesso, bem organizado que já usa um sistema).O problema que você vai encontrar geralmente é um subproblema do subproblema do subproblema real. Quando você já tá nesse nível você provavelmente está lidando com um problema de otimização. Você não tem uma inovação radical, na prática você só tá mudando uma coisa pequena que só está otimizando o fluxo. 
