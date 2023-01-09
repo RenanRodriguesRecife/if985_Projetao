@@ -94,3 +94,7 @@ O problema é relevante? Se trata de um problema é tão relevante que alguém e
 Tem um componente do canvas que se chama unfair advantagem: que é uma vantagem injusta que você tem quando monta uma inovação. A grande questão é que empresa que já trabalham na área, já tem vantagem como ter clientes, dados...se ele quiser acrescentar um módulo que faz as mesmas funcionalidade que a sua otimização ele pode simplemente acabar com o seu projeto.(dando uma vantagem injusta contra você para o seus concorrentes)
 
 As pessoas querem usar isso?
+
+Se você só quer fazer melhor algo que já é feito ele não é uma inovação.
+
+06:16
