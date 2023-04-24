@@ -62,3 +62,7 @@ Tente afinar suas observações para questões mais específicas no espaço obse
 ### Jornada do Usuário
 
 ### Entrevistas
+
+## Perguntas Frequentes
+
+### Posso entrar em qualquer um dos gurpos que se
