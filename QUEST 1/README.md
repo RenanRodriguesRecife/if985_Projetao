@@ -11,57 +11,57 @@ O intuito desta quest **não é** definir seu projeto. Não tente encontrar nest
 
 Ao final, procure categorizar / classificar / qualificar aquilo que mais chamou sua atenção, e entender onde esta questão se enquadra dentro dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
 
-<img src="./assets/obj_onu.jpg">
+<img src="../assets/obj_onu.jpg">
 
-Preparação
+### Preparação
 
 Quais são os seus interesses pessoais? Em que espaços/lugares você verá estes interesses acontecendo?
 
-Aeroporto
-Cemitério
-Ambulância
-Frigorífico	Feira	
-Cinema
-Ponto de taxi	
-Academia	
-Navio
-Fábrica	
-Rodoviária	
-Banca de jornal
+- Aeroporto
+- Cemitério
+- Ambulância
+- Frigorífico	Feira	
+- Cinema
+- Ponto de taxi	
+- Academia	
+- Navio
+- Fábrica	
+- Rodoviária	
+- Banca de jornal
 
-Quando é interessante ir neste local?
+#### Quando é interessante ir neste local?
 
 Ex: ir no Ceasa no meio da tarde é um bom momento?
 
-Porque este lugar é interessante?
+#### Porque este lugar é interessante?
 
 Ex: numa rave eu vou encontrar muita gente que vai curtir a balada, mas vou encontrar técnicos de iluminação, sonorização, produtores de evento, etc., e as questões que eles enfrentam, ou as coisas que amam fazer.
 
 (Se você quer que outros colegas embarquem com você em um projeto nesta temática, é necessário mostrar o que há de interessante ali, e que isso valeria à pena).
 
-Dica
+#### Dica
 
 Se você se gostaria de criar um projeto para inovar com atividades esportivas, visite um local onde você encontre pessoas desempenhando estas atividades, como um ginásio, por exemplo; se for possível, tente visitar um lugar onde várias pessoas e atividades são desempenhadas em torno daquilo que lhe interessa, como, por exemplo, um clube ou campo de futebol no dia de treinamento de um time, onde será possível observar tanto os jogadores quanto treinadores, técnicos, assistentes, imprensa, ou mesmo um grupo pequeno de torcedores aficcionados por seu time.
 
-Descrever
+### Descrever
 
-1. Qual espaço foi observado?
+**1. Qual espaço foi observado?**
 
 Ex: Parque da Jaqueira
 
-2. Quais as características deste espaço? (ele é privado? é aberto ou fechado? quantas pessoas circulam neste espaço?)
+**2. Quais as características deste espaço? (ele é privado? é aberto ou fechado? quantas pessoas circulam neste espaço?)**
 
 Ex: natureza pública, de grande circulação e densidade de pessoas.
 
-3. Quais são os contrastes presentes (o que há demais ali, e o que está em falta)?
+**3. Quais são os contrastes presentes (o que há demais ali, e o que está em falta)?**
 
 Ex: há muitos policiais e muitos funcionários presentes, mas quase não vimos animais.
 
-4. Quem frequenta este espaço? Quem são estas pessoas? O que elas fazem lá?
+**4. Quem frequenta este espaço? Quem são estas pessoas? O que elas fazem lá?**
 
 Ex: crianças, pessoas praticando esportes, vendedores, personal trainers, pesquisadores do ibope, pessoas idosas, ciclistas, guardas, funcionários do parque.
 
-5. O que você não viu lá (mas esperava ver)?
+**5. O que você não viu lá (mas esperava ver)?**
 
 Ex: indigentes e equipamentos depredados.
 
